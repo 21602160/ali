@@ -122,3 +122,29 @@ password :
     </div>
 </body>
 </html>
+
+
+
+
+
+
+
+
+
+
+
+              <!-- Add this script inside the <head> or at the end of the <body> -->
+<script>
+    document.addEventListener('DOMContentLoaded', function () {
+        // Add interactivity here using JavaScript
+        var welcomeMessage = document.getElementById('welcome-message');
+        var nameInput = document.getElementById('name-input');
+        var updateButton = document.getElementById('update-button');
+
+        updateButton.addEventListener('click', function () {
+            var newName = nameInput.value;
+            welcomeMessage.textContent = 'Welcome to Your Website, ' + newName + '!';
+        });
+    });
+</script>
+

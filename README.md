@@ -1,7 +1,6 @@
-- 👋 Hi, we welcome you to the world of new power
-- 👀 I’m from india
-- 🌱 I’m currently learning how to use youtube
-- 💞️ I’m looking to collaborate on mr.beast
+- 👋 Hi, to online shopping
+- 👀 I’m from pakistan
+- 🌱 I’m currently learning maket
 - 📫 How to reach me : through this app
 - 😄 Pronouns: he/him
 <!---
